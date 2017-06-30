@@ -1,0 +1,1799 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'1
+	/users/kyehwanl/srx_test1/node1
+	..
+1441291955
+'2
+	/users/kyehwanl/srx_test1/node2
+	bgpd.conf.mod
+1476737248
+'3
+	/users/kyehwanl/srx_test1/node3
+	..
+1442436255
+'4
+	/users/kyehwanl/srx_test1/node4
+	bgpd.conf
+1454797852
+'5
+	/users/kyehwanl/srx_test1/node5
+	bgpd.bgpsec.bird.conf
+1441142674
+'A
+	/users/kyehwanl/srx_test1/test/bio3/cfg
+	testConfig.cfg
+1459868745
+'B
+	/users/kyehwanl/srx_test1/test2/api4/test_install/etc
+	srxcryptoapi.conf
+1459868746
+'C
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi
+	config.h.in
+1453316083
+'D
+	/users/kyehwanl/Download
+	exabgp-3.3.0
+1441377489
+'G
+	/users/kyehwanl/srx_test1/git.svn
+	..
+1446056454
+'Q
+	/users/kyehwanl/proj-bgp/quaggasrx
+	..
+1446144928
+'T
+	/users/kyehwanl/config_and_diff_patch
+	tip_command
+1491245264
+'V
+	/users/kyehwanl/.vifm
+	vifmrc
+1426699896
+'a
+	/users/kyehwanl/srx_test1/test2/_inst/etc
+	srxcryptoapi.conf
+1492453477
+'b
+	/users/kyehwanl/Bird_test/bird-1.6-bgpsec-0.9
+	..
+1472749583
+'c
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi
+	bgpsec_openssl
+1461954301
+'d
+	/users/kyehwanl/srx_test1/DEBUGGING_NOTE
+	..
+1485388758
+'e
+	/users/kyehwanl/proj-bgp/srx/test_install/etc
+	srx_server.conf
+1453316102
+'g
+	/users/kyehwanl/srx_test1/git.svn
+	..
+1426884325
+'i
+	/users/kyehwanl/Download/bgpsec-test/bird-1.3.9-bgpsec3
+	bird.ipv6.node1.conf
+1429911398
+'j
+	/users/kyehwanl/Download/yabgp
+	doc
+1457377249
+'k
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/keys
+	..
+1474304665
+'m
+	/users/kyehwanl/SDN_test/Mininet
+	..
+1471542271
+'n
+	/users/kyehwanl/srx_test1/test/qsrx
+	bgpd
+1457023718
+'o
+	/users/kyehwanl/SDN_test
+	mininet_log
+1480356519
+'p
+	/users/kyehwanl/proj-bgp/extras/test_code
+	perf_test
+1459528992
+'q
+	/users/kyehwanl/proj-bgp/quaggasrx
+	bgpd
+1463174112
+'s
+	/users/kyehwanl/SDN_test
+	openvswitch-2.5.0
+1471541941
+'t
+	/users/kyehwanl/config_and_diff_patch
+	tip_command
+1492199245
+'u
+	/users/kyehwanl/ubuntu_test
+	nist-srx-bundle-22-0.4.1.3
+1483630313
+'v
+	/users/kyehwanl/Programming/time-measure/tm-library
+	cpu_perf
+1473696112
+'w
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi
+	Makefile.am
+1426792545
+'H
+	/users/kyehwanl
+	../
+-1
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l-11,2
+r-11,2
+
+# Left window history (oldest to newest):
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/api
+	config.log
+8
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	srx
+2
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx
+	config.log
+9
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	qsrx
+1
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/qsrx
+	config.log
+22
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	qsrx
+1
+d/users/kyehwanl/Quagga_test/Proces_Performance
+	QuaggaSRxSuite
+1
+d/users/kyehwanl/Quagga_test
+	Proces_Performance
+1
+d/users/kyehwanl
+	srx_test1
+1
+d/users/kyehwanl/srx_test1
+	node1
+4
+d/users/kyehwanl/srx_test1/node1
+	bgpd.conf.mod
+2
+d/users/kyehwanl/srx_test1
+	node2
+5
+d/users/kyehwanl/srx_test1/node2
+	bgpd.conf.mod
+5
+d/users/kyehwanl/srx_test1
+	node3
+8
+d/users/kyehwanl/srx_test1/node3
+	bgpd.conf.mod
+6
+d/users/kyehwanl/srx_test1
+	node2
+5
+d/users/kyehwanl/srx_test1/node2
+	bgpd.conf.bio
+6
+d/users/kyehwanl/srx_test1
+	node2
+5
+d/users/kyehwanl
+	srx_test1
+1
+d/users/kyehwanl/srx_test1
+	tempTest
+2
+d/users/kyehwanl/srx_test1/tempTest
+	api
+4
+d/users/kyehwanl/srx_test1/tempTest/api
+	bgpsec_openssl
+1
+d/users/kyehwanl/srx_test1/tempTest/api/bgpsec_openssl
+	bgpsec_openssl.c
+2
+d/users/kyehwanl/srx_test1/tempTest/api
+	bgpsec_openssl
+1
+d/users/kyehwanl/srx_test1/tempTest
+	qsrx
+1
+d/users/kyehwanl/srx_test1/tempTest/qsrx
+	bgpd
+4
+d/users/kyehwanl/srx_test1/tempTest/qsrx/bgpd
+	Makefile.am
+14
+d/users/kyehwanl/srx_test1/tempTest/qsrx
+	bgpd
+4
+d/users/kyehwanl/srx_test1/tempTest
+	qsrx
+1
+d/users/kyehwanl/srx_test1
+	node1
+1
+d/users/kyehwanl
+	Quagga_test
+5
+d/users/kyehwanl/Quagga_test
+	Proces_Performance
+1
+d/users/kyehwanl/Quagga_test/Proces_Performance
+	QuaggaSRxSuite
+1
+d/users/kyehwanl/Quagga_test
+	Proces_Performance
+1
+d/users/kyehwanl
+	Quagga_test
+5
+d/users/kyehwanl/Quagga_test
+	Proces_Performance
+1
+d/users/kyehwanl/Quagga_test/Proces_Performance
+	QuaggaSRxSuite
+1
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	srx
+2
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx
+	cscope.files
+6
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	api
+4
+d/users/kyehwanl/Quagga_test/Proces_Performance
+	QuaggaSRxSuite
+1
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	api
+4
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/api
+	bgpsec_openssl
+2
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/api/bgpsec_openssl
+	bgpsec_openssl.c
+5
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/api
+	bgpsec_openssl
+2
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	_inst
+3
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/_inst
+	etc
+1
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/_inst/etc
+	srxcryptoapi.conf
+3
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/_inst
+	etc
+1
+d/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	_inst
+3
+d/users/kyehwanl/Quagga_test/Proces_Performance
+	QuaggaSRxSuite
+1
+d/users/kyehwanl/Quagga_test
+	Proces_Performance
+1
+d/users/kyehwanl
+	srx_test1
+2
+d/users/kyehwanl/srx_test1
+	test2
+4
+d/users/kyehwanl/srx_test1/test2
+	api6
+6
+d/users/kyehwanl/srx_test1/test2/api6
+	bgpsec_openssl
+1
+d/users/kyehwanl/srx_test1/test2/api6/bgpsec_openssl
+	bgpsec_openssl.c
+2
+d/users/kyehwanl/srx_test1/test2/api6
+	bgpsec_openssl
+1
+d/users/kyehwanl/srx_test1/test2
+	bio2
+1
+d/users/kyehwanl/srx_test1/test2/bio2
+	bgpsecio.cfg.100k.single.capi
+12
+d/users/kyehwanl/srx_test1/test2
+	bio
+2
+d/users/kyehwanl/srx_test1/test2/bio
+	data
+4
+d/users/kyehwanl/srx_test1/test2/bio/data
+	7B
+4
+d/users/kyehwanl/srx_test1/test2/bio
+	data
+4
+d/users/kyehwanl/srx_test1/test2
+	api6
+6
+d/users/kyehwanl/srx_test1/test2/api6
+	bgpsec_openssl
+1
+d/users/kyehwanl/srx_test1/test2/api6/bgpsec_openssl
+	bgpsec_openssl.c
+2
+d/users/kyehwanl/srx_test1/test2/api6
+	bgpsec_openssl
+1
+d/users/kyehwanl/srx_test1/test2
+	_inst
+8
+d/users/kyehwanl/srx_test1/test2/_inst
+	etc
+1
+d/users/kyehwanl/srx_test1/test2/_inst/etc
+	srx_server.conf
+4
+d/users/kyehwanl/srx_test1/test2/_inst
+	etc
+1
+d/users/kyehwanl/srx_test1/test2
+	qsrx3
+5
+d/users/kyehwanl/srx_test1/test2/qsrx3
+	bgpd
+1
+d/users/kyehwanl/srx_test1/test2/qsrx3/bgpd
+	bgpd.conf.sampleSRx
+10
+d/users/kyehwanl/srx_test1/test2/qsrx3
+	bgpd
+1
+d/users/kyehwanl/srx_test1/test2
+	api6
+6
+d/users/kyehwanl/srx_test1/test2/api6
+	bgpsec_openssl
+1
+d/users/kyehwanl/srx_test1/test2/api6/bgpsec_openssl
+	bgpsec_openssl.c
+2
+d/users/kyehwanl/srx_test1/test2/api6
+	bgpsec_openssl
+1
+d/users/kyehwanl/srx_test1/test2
+	api6
+6
+d/users/kyehwanl/srx_test1
+	DEBUGGING_NOTE
+3
+d/users/kyehwanl/srx_test1/DEBUGGING_NOTE
+	2016-11-29-BIRD_mpNLRI_memo
+6
+d/users/kyehwanl/srx_test1
+	tempTest
+1
+d/users/kyehwanl/srx_test1/tempTest
+	qsrx
+1
+d/users/kyehwanl/srx_test1/tempTest/qsrx
+	bgpd
+4
+d/users/kyehwanl/srx_test1/tempTest
+	api
+4
+d/users/kyehwanl/srx_test1/tempTest/api
+	srx_crypto_tester
+6
+d/users/kyehwanl/srx_test1/tempTest
+	api
+1
+d/users/kyehwanl/srx_test1
+	DEBUGGING_NOTE
+3
+d/users/kyehwanl/srx_test1/DEBUGGING_NOTE
+	2016-12-06-BIRD_gdb_hash_process_temp
+6
+d/users/kyehwanl/srx_test1
+	DEBUGGING_NOTE
+1
+d/users/kyehwanl
+	srx_test1
+2
+d/users/kyehwanl/config_and_diff_patch
+	netns_linux_bridge
+6
+d/users/kyehwanl
+	Shell_Script
+1
+d/users/kyehwanl/Shell_Script
+	telnet_script
+1
+d/users/kyehwanl
+	Programming
+6
+d/users/kyehwanl/Programming
+	python_test
+1
+d/users/kyehwanl/Programming/python_test
+	net_emulator
+1
+d/users/kyehwanl/Programming/python_test/net_emulator
+	net_emulator.py
+1
+d
+
+# Right window history (oldest to newest):
+D/users/kyehwanl/Quagga_test/Proces_Performance
+	quagga-1.2.0
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/quagga-1.2.0
+	bgpd
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance
+	quagga-1.2.0
+1
+D/users/kyehwanl/Quagga_test
+	Proces_Performance
+1
+D/users/kyehwanl
+	Quagga_test
+2
+D/users/kyehwanl/Quagga_test
+	Proces_Performance
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance
+	QuaggaSRxSuite
+3
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	qsrx
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/qsrx
+	bgpd
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/qsrx/bgpd
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/qsrx/bgpd/.libs
+	bgpd
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/qsrx/bgpd
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/qsrx
+	bgpd
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	qsrx
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance
+	QuaggaSRxSuite
+3
+D/users/kyehwanl/Quagga_test
+	Proces_Performance
+1
+D/users/kyehwanl
+	Download
+1
+D/users/kyehwanl/Download
+	MRTdump
+1
+D/users/kyehwanl/Download/MRTdump
+	..
+0
+D/users/kyehwanl/Download
+	MRTdump
+1
+D/users/kyehwanl/Download/MRTdump
+	bgpdump
+2
+D/users/kyehwanl/Download
+	MRTdump
+2
+D/users/kyehwanl/Download/MRTdump
+	libbgpdump-1.4.99.13
+1
+D/users/kyehwanl/Download/MRTdump/libbgpdump-1.4.99.13
+	..
+0
+D/users/kyehwanl/Download/MRTdump
+	libbgpdump-1.4.99.13
+1
+D/users/kyehwanl/Download
+	mdfmt-0.3
+1
+D/users/kyehwanl/Download/mdfmt-0.3
+	logtomrt
+4
+D/users/kyehwanl/Download
+	MRTdump
+2
+D/users/kyehwanl/Download/MRTdump
+	libbgpdump-1.4.99.13.tgz
+4
+D/users/kyehwanl/Download
+	MRTdump
+1
+D/users/kyehwanl/Download/MRTdump
+	quagga_accelerator
+1
+D/users/kyehwanl/Download/MRTdump/quagga_accelerator
+	README-quagga-accelerator.txt
+4
+D/users/kyehwanl/Download/MRTdump
+	quagga_accelerator
+1
+D/users/kyehwanl/Download
+	exabgp-3.4.13
+15
+D/users/kyehwanl/Download/exabgp-3.4.13
+	..
+0
+D/users/kyehwanl/Download
+	yabgp
+16
+D/users/kyehwanl/Download/yabgp
+	..
+0
+D/users/kyehwanl/Download
+	BGP_MRT_Dump_util_scripts
+1
+D/users/kyehwanl/Download/BGP_MRT_Dump_util_scripts
+	bgp_simple
+1
+D/users/kyehwanl/Download/BGP_MRT_Dump_util_scripts/bgp_simple
+	bgp_simple.pl
+4
+D/users/kyehwanl/Download/BGP_MRT_Dump_util_scripts
+	mkbrdata_64
+14
+D/users/kyehwanl/Download
+	BGP_MRT_Dump_util_scripts
+1
+D/users/kyehwanl/Download/BGP_MRT_Dump_util_scripts
+	bgp_simple
+1
+D/users/kyehwanl/Download/BGP_MRT_Dump_util_scripts/bgp_simple
+	routes1
+3
+D/users/kyehwanl/Download/BGP_MRT_Dump_util_scripts
+	mkbrdata
+12
+D/users/kyehwanl/Download
+	BGP_MRT_Dump_util_scripts
+3
+D/users/kyehwanl
+	srx_test1
+6
+D/users/kyehwanl/srx_test1
+	DEBUGGING_NOTE
+2
+D/users/kyehwanl/srx_test1/DEBUGGING_NOTE
+	bug1-srxheaders
+20
+D/users/kyehwanl/srx_test1
+	node02
+23
+D/users/kyehwanl
+	Programming
+7
+D/users/kyehwanl/Programming
+	All_Chapter_Examples.zip
+17
+D/users/kyehwanl
+	Programming
+7
+D/users/kyehwanl/Programming
+	backtrace
+8
+D/users/kyehwanl
+	ubuntu_test
+10
+D/users/kyehwanl/ubuntu_test
+	..
+0
+D/users/kyehwanl
+	ubuntu_test
+10
+D/users
+	kyehwanl
+1
+D/users/kyehwanl
+	ubuntu_test
+10
+D/users/kyehwanl/ubuntu_test
+	..
+0
+D/users/kyehwanl
+	srx_test1
+7
+D/users/kyehwanl/srx_test1
+	test2
+6
+D/users/kyehwanl/srx_test1/test2
+	bio
+1
+D/users/kyehwanl/srx_test1/test2/bio
+	bgpsecio.cfg.100k
+12
+D/users/kyehwanl/srx_test1/test2
+	bio
+2
+D/users/kyehwanl/srx_test1
+	test2
+1
+D/users/kyehwanl
+	Quagga_test
+1
+D/users/kyehwanl/Quagga_test
+	Proces_Performance
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance
+	QuaggaSRxSuite
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	srx
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx
+	src
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	server
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src/server
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	tools
+2
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src/tools
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	client
+3
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src/client
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	autom4te.cache
+4
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src/autom4te.cache
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	shared
+6
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src/shared
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	util
+7
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src/util
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	srx-server-rev.txt
+8
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx
+	src
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	util
+7
+D/users/kyehwanl/Programming/time-measure/tm-library/tm_rdtsc
+	..
+0
+D/users/kyehwanl/Programming/time-measure/tm-library
+	tm_rdtsc
+1
+D/users/kyehwanl/Programming/time-measure
+	tm-library
+1
+D/users/kyehwanl/srx_test1
+	..
+0
+D/users/kyehwanl
+	config_and_diff_patch
+3
+D/users/kyehwanl/config_and_diff_patch
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/qsrx/bgpd
+	..
+0
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/qsrx
+	bgpd
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite
+	srx
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx
+	src
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	server
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src/server
+	command_queue.c
+8
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src
+	server
+1
+D/users/kyehwanl/Quagga_test/Proces_Performance/QuaggaSRxSuite/srx/src/server
+	command_handler.c
+1
+D
+
+# Command line history (oldest to newest):
+:cd /etc/c
+:help
+:grep 323
+:touch 2017-01-24-SRx-IPv6_Prefix_Support
+:touch svn_configuration_usage
+:s
+:!!rm -rf %f
+:cd /usr/local/ssl/
+:grep EC_POINT_get_affine_coordinates_GF2m
+:!!file $f
+:!! file %f
+:!! nm .libs/bgpsecio | grep EC_POINT_get_affine_coordinates_GF2m
+:less %f
+:!less %f
+:qa
+:touch vim_color_loss
+:grep CAPABILITY_CODE_EXTENDED
+:mkdir svnroot
+:grep IPV6
+:grep IPU6
+:grep IP
+:grep UPV6
+:grep UPv6
+:find Makefile.in
+:!!echo %f
+:cd
+:mkdir random_number
+:touch howto
+:mkdir tmux-conf_tips
+:mkdir srx_debugging_logs
+:!!rsync --help
+:find valgrind
+:find callgrind
+:cd /tmp
+:mkdir extended
+:!!%f
+:!!svn info
+:!! ./make_cscope.sh
+:!!./make_cscope.sh
+:!rm -rf %f
+:!!git svn info
+:!! cp ../qsrx/.gitignore ./
+:!! make --help
+:!!make -f %f
+:grep __TIME_MEASURE__
+:grep UPDATE_COUNT
+:mkdir time_measure
+:!!pwd
+:mkdir qsrx
+:!!cp %f %f.orig
+:find *.patch
+:tou
+:touch 2017-02-24-SRx_server_crash_when_rpki
+:!!git st
+:grep handleSRxValidation
+:mkdir stock
+:grep TIME_MEASURE
+:grep /* BGP_UPDATE fragmentation */
+:grep g_measureCount
+:grep running
+:grep config
+:grep running-config
+:grep running configuration
+:mkdir tara-library
+:!bunzip2 %f
+:!tar xvf mdfmt-0.3.tar
+:cd .libs/
+:cd /tmp/
+:mkdir MRTdump
+:mkdir bgp_simple
+:!! wget https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/bgpsimple/bgpsimple.tgz
+:!tar xvfz bgpsimple.tgz
+:touch sample_command
+:!!scp %f bgpsec1.antd.nist.gov:~/Downloads
+:!!scp %f bgpsec1:sudo ./bgp_simple.pl -myas 60002 -myip 10.1.1.2 -peerip 10.1.1.3  -peeras 60003 -p updates.20170324.0100.mrt
+:!!scp %f bgpsec1:/users/kyehwanl/Downloads/bgp_simple/
+:!!scp %f bgpsec1.antd.nist.gov:/users/kyehwanl/Downloads/bgp_simple/
+:grep tcpdump
+:diff
+:echo %f
+:!echo %f
+:!!scp %f bgpsec2.antd.nist.gov:/tmp/
+:grep git remote
+:syn
+:grep callgrind
+:!vim ~/.tmux.conf
+:find cscope
+:find cscope*
+:find cscope.*
+:!!echo %d
+:pwd
+:grep VERIFY SUCCESS
+:grep ownedByAPI
+:grep SCA_Signature
+:grep free_func
+:!!git remote show
+:!!git ll
+:grep -------------
+:grep '--------------------'
+:touch netns_linux_bridge
+:q
+
+# Search history (oldest to newest):
+/openv
+/jperf
+/1k
+/openvs
+/mininet
+/DEBUG
+/aptch
+/diff
+/less
+/router
+/tags
+/tag
+/openss
+/socat
+/python
+/test
+/p
+/version
+/patricia
+/vi
+/pkg_resources
+/mini
+/find
+/vifmrc
+/dep-stamp
+/all
+/5
+/100
+/go1
+/go
+/gobgp
+/ssh
+/diff-srx-loggin
+/diff_srx_server
+/diff-srx-logg
+/args
+/graph
+/conflict
+/mrt
+/libbgp
+/arg
+/oepnssl
+/origin
+/ssh://
+/git_tips
+/bgpd.n1.conf
+/-f
+/vf
+/config
+/ubu
+/ubun
+/packet.c
+/perf
+/SRx
+/pe
+/thread
+/testcon
+/testcontroller
+/profile
+/orig
+/*.so
+/.*\.so
+/vifm
+/1
+/n
+/measure
+/wireshark
+/aldkfj
+/jjjjjjjjjjj
+/vty
+/Down
+/grep
+/private
+/privateKey
+/cscope
+/rpki
+/aldkjf
+/lajdf
+/config.log
+/srxcryptoapi.c
+/open.c
+/fil \.o$
+/vty.c
+/.vimrc
+/local
+/vajjj
+/valid
+/validate
+/q
+/route.c
+/include
+/b
+/redhat
+/debian
+/openvswitch
+/bgpd
+/run
+/make
+/perl
+/libevent
+/event
+/cron
+/gdb
+/open
+/buildT
+/bird
+/svn_in
+/git_tip
+/c
+/util
+/ipv6
+/cfg
+/openssl
+/tip_
+/bgpsecio.cfg
+/tip_command
+/vim
+/open.h
+/configure
+/comm_
+/tmux
+/um
+/patch
+/srx
+/quagga
+/rpm
+/yum
+/kvm
+/autot
+/auto
+/rsync
+/Makefile
+/svn
+/configure.ac
+/config.sta
+/config.h
+/valgrind
+/show
+/ex
+/tara
+/mdf
+/mt
+/bgp
+/net-bgp
+/g
+/exa
+/git
+
+# Prompt history (oldest to newest):
+pbgpd.biotest.conf
+pbgp_tools
+pexaBgp_setting
+pyaBGP_setting
+ptools-bgp
+ptools-bgpd
+pbgpd-tools
+pAC44F77EFAA94602E9984305215BF47DCD.der
+ptest2
+psetting_exaBgp
+pconfigure_yaBGP
+psetting_yaBGP
+pbgpd.bgpsectest.recvonly
+pFA1975FF193181458FB902B501EA9789DC.cert
+pFA1975FF193181458FB902B501EA9789DC.der
+pconfigure.ac.svnrepo.patch
+pconfigure.ac.svnrepo
+pconfigure.ac.svnrepo.tmp
+papi2
+pbgp_validate.tmp.c
+pREADME_run_n_install
+pREADME_run_n_install.patch
+ppatch_run_n_install.patch
+pdiff_run_n_install.patch
+ptmux.bgpsec.test.sh
+pbacktrace-callgdb.c
+plib
+pcombined
+ptest1.py
+p:sh
+pbgpd.roa.test
+pbgpd.roa.test.conf
+pbgpd.roa.test.n1
+pbgpd.roa.test.n2
+pbgpd.roa.test.n3
+pbgpd.roa.test.n4
+pbgpd.roa.test.n5
+pbgpd.bgpsec.test.n1
+ptime_measure.c
+ptime_measure
+pMakefile.tmp
+pMakefile.perf_test.bkup
+pNEED2ADD_makefile_perf_test
+pNEED2ADD_automakefile_perf_test
+ptest_install
+ptest_install2
+ptest_install_tmp
+pMakefile_template
+pMakefile.template
+pperf_test_result_20160517_11am
+pbgpd.bgpsec.test.n2
+pbgpd.bgpsec.test.n3
+pbgpd.bgpsec.test.n4
+pbgpd.bgpsec.test.n5
+p2EBCB641976021CDE9857448B9C04DDE64.pub.bad.tmp:w
+p2EBCB641976021CDE9857448B9C04DDE64.pub.bad
+p2EBCB641976021CDE9857448B9C04DDE64.pub.bad.tmp
+p2EBCB641976021CDE9857448B9C04DDE64.pub.good.tmp
+pDefault.vifm
+pMyColorScheme.vifm
+pMyScheme.vifm
+pzenburn_1.vifm
+pMyPattern
+pDefault.orig
+pMyScheme
+pgo_tip
+pgo_tip.md
+povs_configure_n3n4_script_capture
+pbird.node2.
+pbird.node1.conf
+pcap_wireshark_QuaggaSRx_BIRD_interop_test_09012016
+ppcap_wireshark_QuaggaSRx_BIRD_interop_test_09012016
+pprefix_100k
+pnode1.conf.
+p2EBCB641976021CDE9857448B9C04DDE64.private.tmp
+p2EBCB641976021CDE9857448B9C04DDE64.private.bad.tmp
+pDebugging_Note
+pretValTest
+pretValtest
+pstruct_attribute_test
+pperf_test_code
+pperf_test_codes
+ptest_code
+pFA1975FF193181458FB902B501EA9789DC.pub.tmp
+pbird_interoprerability_test_20160831(1
+pbird_interoprerability_test_20160831(1)
+pbird_interoprerability_test_20160901.md
+pbird_interoprerability_test_20160901
+pbird_interoprerability_ERRORS_20160831
+pbird_interoprerability_LOG_20160901
+pMakefile.main
+plibcpu_perf
+plibutil_getrusage
+putil_getrusage
+ptm_rdtsc
+pcpu_perf
+p2EBCB641976021CDE9857448B9C04DDE64.priv.good.pem
+p2EBCB641976021CDE9857448B9C04DDE64.private.bad
+p2EBCB641976021CDE9857448B9C04DDE64.private.der.bad
+p2EBCB641976021CDE9857448B9C04DDE64.private.der.good
+pconfiguration.c.old
+pDebugging_
+pDEBUGGING_NOTE
+pbgpsec1_measurement_test_command
+pbird_performance_measurement_20160908
+pconfiguration.c
+pmain.c
+p72485D926CACDA2D259BE19DAE82DFBDE3.private.der
+pmininet_log
+p72485D926CACDA2D259BE19DAE82DFBDE3.private.pem
+pAC44F77EFAA94602E9984305215BF47DCD.private.pem
+pgit_svn_tips
+pgo1.4
+phello.go
+pmake_install_tip.md
+pnode2(1).conf
+pnode2(1).
+pnode1.conf.100k
+pnode1.conf.10
+ptag__S
+ptrunk_from_srx-crypto-api.gitsvn
+pAC44F77EFAA94602E9984305215BF47DCD.private.der
+pAC44F77EFAA94602E9984305215BF47DCD.private
+pFA1975FF193181458FB902B501EA9789DC.private.orig
+p72485D926CACDA2D259BE19DAE82DFBDE3.der
+p669A374B729FE6F8F61B52A778F8A6CCE9.der
+p2EBCB641976021CDE9857448B9C04DDE64.der
+pbird_interoprerability_ERRORS_
+pbird_interoprerability_ERRORS_20161007
+pbird_interoprerability_ERRORS_20161005_[SOLVED]
+pbird_interoprerability_ERRORS_20161005_valgrind_log
+pdiff_BIRD_bgpsec_limit.patch
+pdiff_BIRD_bgpsec_error_limit.patch
+p72485D926CACDA2D259BE19DAE82DFBDE3.private.orig
+psrxcryptoapi.conf.bio
+psrxcryptoapi.conf.orig
+p35FD78325932ADEF853A6B1F340C1F3DEF.pub
+p35FD78325932ADEF853A6B1F340C1F3DEF(1).der
+p35FD78325932ADEF853A6B1F340C1F3DEF.priv
+p35FD78325932ADEF853A6B1F340C1F3DEF.private
+pCCAB9905C3D4802E27CC0576E6BFFDED64.pub
+pCCAB9905C3D4802E27CC0576E6BFFDED64.private
+p0F55CAE71A215EF3CAFE3ACC45B5EEC154.pub
+p0F55CAE71A215EF3CAFE3ACC45B5EEC154.private
+pF1AB2F8A9D26864EBBD8DF2711C74406EC.pub
+pF1AB2F8A9D26864EBBD8DF2711C74406EC.private
+p72485D926CACDA2D259BE19DAE82DFBDE3.private
+pvim_highlight_setting_tip
+ptmux.exp2.bgpsec2.sh
+pMakefile.util
+pbird.README.bgpsec.issues
+pp
+pbgpd.bgpsec.conf
+pbgpd.orig.10k
+pbgpd.orig.300k
+pbgpd.orig.500k
+pbgpd.orig.50k
+pnode2.conf.bio
+pbird_interoperability_ERRORS_20160831_[SOLVED]
+pbgpd.conf.bird.bio
+pjjjjjjk
+pbgpd.conf.mod.mute
+pbgpd.bgpsectest.50k
+pbgpd.orig.conf
+pperl_
+pperl_tips.md
+p2016-12-06-BIRD_gdb_hash_temp
+p2016-12-06-BIRD_gdb_hash_process_temp
+psolarized2.vim.orig
+popenvswitch_qos_
+popenvswitch_qos_setting
+popenvswitch_qos_basic_config_doc
+popenvswitch_qos_multiQueue_config_doc
+popenvswitch_qos_config_doc2
+popenvswitch_qos_config_doc
+popenvswitch_qos_setting_logs
+pBIRD.node1.conf
+pBIRD.node2.conf
+p2016-11-21-hash_generation_issue_rawdata
+p2016-11-21-hash_generation_issue
+pnetns_openvswitch_history_
+pbgpd.conf.socat
+pbgpd.conf.socat2
+px11-proxy.sh
+pBIRD.node2.conf.interops
+ptc_queue
+ptc_
+pnode_tc_queue
+pnote_tc_queue
+p(note)tc_queue
+pNote-tc_queue
+pNote-datapath_counter
+pNote-openvswitch-files
+pNote-testMininet1_withTwoBridges
+ptemp.sh
+premote_x11.sh
+p2017-01-24-SRx-IPv6_Prefix_
+p2017-01-24-SRx-IPv6_Prefix_Support-[SOLVED]
+pbgpd.conf.ext
+pr
+psrx-gitsvn-bkup
+pbgpd.orig.1k
+pbgpd.normal.conf
+pbird.node1.ipv6.conf
+pbird.bgpsec.node2.conf
+pbird.bgpsec.node7.conf
+pbird.ipv6.node1.conf
+pnode2.bgpsec.conf
+pnode2.conf.interops
+p60004.45CAD0AC44F77EFAA94602E9984305215BF47DCD.key
+p60004.45CAD0AC44F77EFAA94602E9984305215BF47DCD.0.key
+pbgpsecio.cfg.100k
+pnode1.conf.bio
+pbird.ipv6.node2.conf
+pbird.node2.conf
+pbgpd.ipv4v6.mp_dual.conf
+pquagga_config.txt
+pbgpd.n2.conf.rpki
+pbgpd.dual-v4v6.mp.conf
+prifle.conf.orig
+prifle.conf
+pqsrx-make-key
+p2EBCB641976021CDE9857448B9C04DDE64.priv
+p2EBCB641976021CDE9857448B9C04DDE64
+popenssl_util_code
+p2EBCB641976021CDE9857448B9C04DDE64.pub.bk
+p2EBCB641976021CDE9857448B9C04DDE64.priv(1).good
+p2EBCB641976021CDE9857448B9C04DDE64.private
+p2EBCB641976021CDE9857448B9C04DDE64.pub.
+p2EBCB641976021CDE9857448B9C04DDE64.pub.bk2
+p2EBCB641976021CDE9857448B9C04DDE64.pub
+pFA1975FF193181458FB902B501EA9789DC.pub.good
+pFA1975FF193181458FB902B501EA9789DC.private.good
+pFA1975FF193181458FB902B501EA9789DC.private.bad
+pFA1975FF193181458FB902B501EA9789DC.pub.bad
+pFA1975FF193181458FB902B501EA9789DC.pub.good.tmp
+pFA1975FF193181458FB902B501EA9789DC.private.good.tmp
+pbgpd.dual.v46.conf
+po
+p_vimrc.local
+p_vimrc
+p_vimrc_emulab
+p_vimrc.local_emulab
+pvifmrc_emulab
+pbird.bgpsec.node3.conf
+psvn_configuration_operation_capture
+psvn_configuration_tips
+psvn_configuration_capture
+pgit-svn_tips
+pbgpd.bgpsec(1).conf
+pbgpsecio.cfg.10k.single
+pbgpsecio.cfg.100k.single
+pbgpsecio.cfg.1k.single
+pbgpd_orig
+pbgpd.n1.1k.bgpsec-bs1
+pbgpd.n1.10k.bgpsec-bs1
+pbgpd.n1.100k.bgpsec-bs1
+pbgpsecio.cfg
+pbgpsecio.cfg.1k.single.capi
+pbgpsecio.cfg.10k.single.capi
+pbgpsecio.cfg.100k.single.capi
+pMakefile
+pFRR_git_logs
+pbgpd.n1.conf.bgpsec
+pbgpsecio.cfg.10.single.capi
+pbgpsecio.cfg.5.single.capi
+pgobgp_setting
+pbgpd.bgpsec.bird
+p2017-04-27_hash_generation_issue_[SOLVED]
+p-hash_generation_issue
+p2016-11-21-hash_generation_issue(1)
+p2017-05-05-hash_generation_issue(1)
+p2017-05-05-hash_generation_issue
+p2017-05-05-hash_generation_issue_bugzilla_report
+pbird.bgpsec.node6
+p60008.C30433FA1975FF193181458FB902B501EA9789DC.0
+p60006.C30433FA1975FF193181458FB902B501EA9789DC.0.key
+p60006.C30433FA1975FF193181458FB902B501EA9789DC.key
+pbgpd.bgpsec.bird.conf
+pO
+pFA1975FF193181458FB902B501EA9789DC.private.der
+pFA1975FF193181458FB902B501EA9789DC.private
+psrxcryptoapi.conf
+pmain.c.new
+pconfiguration.c.new
+plog.c.new
+ps
+pS
+pbgpsec1_measure_test_command
+ptip_command.md
+pperl1line.xml
+pperl1line.c
+pperl1line.html
+pperl1line.text
+pperl1line.mdown
+pperl1line.md
+pgitlab_tip.md
+pgitlab_tip
+pbgpd.conf.mod.new
+pbgpd.conf.mod.old
+pbgpd.conf.mod
+plibtm_rdtsc(1).c
+plibtm_rdtsc_driver.c
+pFA1975FF193181458FB902B501EA9789DC.pub(1).good
+pFA1975FF193181458FB902B501EA9789DC.pub
+pski-list.txt.old
+pski-list.txt
+ppriv-ski-list.txt
+pbird_interoprerability_performance_LOGs_20160901
+pbird_interoprerability_performance_20160901
+pbird_interoprerability_ERRORS_20161005
+pbird_interoprerability_ERRORS_20160831_[SOLVED]
+pbird_interoprerability_ERRORS_20160831_[SOLVED_FOUND]
+pbird_interoprerability_ERRORS_20160831_[FOUND]
+pbgpd.conf.bio
+p64.C30433FA1975FF193181458FB902B501EA9789DC.key
+p32.45CAD0AC44F77EFAA94602E9984305215BF47DCD.key
+p64.C30433FA1975FF193181458FB902B501EA9789DC.0.key
+p32.45CAD0AC44F77EFAA94602E9984305215BF47DCD.0.key
+pbird_interoprerability_ERRORS_20161017
+pbird_interoperability_error_log_32bit_64bit
+pbird_interoperability_ERRORS_20161017
+pbird_interoperability_ERRORS_20160831_[FOUND]
+pbird_interoperability_ERRORS_20161005_[SOLVED]
+pbird_interoperability_ERRORS_20161005_valgrind_log
+pbird_interoperability_performance_20160901
+pbird_&_bgpsecio_ERRORS_20161017
+pnode1.conf.birdnode2
+pnode3.conf.birdnode2
+pbgpd.bgpsec.bird.conf.1k
+pbgpd.bgpsec.bird.conf.100k
+piptables_firewall_setting_inside
+pbgpd.bgpsec.bird.conf.300k
+pnode4.conf
+pbgpd.bgpsec.bird.conf.500k
+pnode3.conf.bio
+pbgpd.bgpsec.ipv6.new.conf
+pbgpd.bgpsec.ipv6.mod
+pbgpd.bgpsec.ipv6.
+pbgpd.bgpsec.ipv6.mod.conf
+pbgpsecio.cfg.ext
+pquaggasrx_extended_validate.patch
+pbgpd.conf
+ppatch0831_srx.patch
+pbgpd-tools-conf
+pquagga-bgpd-dualstack-ipv46.conf
+pyum_rpm_tips
+pbkup_rsync_bkup_command
+prsync_bkup_command
+prsync_bkup_tips
+pmaking-shared-library
+pgdb_breakpoint_temp.txt
+pdiff_perf_test_TimeMeasure.patch
+pdiff_perf_test_TimeMeasureUpdated.patch
+pbgpd.conf.
+pbgpd.conf.node1.bgpsec
+pbgpd.conf.node2.bgpsec
+pbgpd.conf.node1
+pbgpd.conf.node2
+pbgpd.n1.10k.conf
+pbgpd.n1.10k
+pbgpd.n1.1k
+pbgpd.n1.100k
+pmeasure_data
+pmeasure_data_cpu_thread
+pnode1.conf.1k.bgpv4
+pnode1.conf.1k.bgp4
+pnode2.conf
+pnode1.conf
+pnode1.conf.1k
+pstock_bgpd
+pbgpd_stock
+pbgpsecio.cfg.1k-2
+p2017-04-27_SOLVE_hash_generation_issue
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/users/kyehwanl/.vifm/Trash/000_openvswitch_2.0.2-0ubuntu0.14.04.3.debian.tar.xz
+	/users/kyehwanl/Download/openvswitch_2.0.2-0ubuntu0.14.04.3.debian.tar.xz
+t/users/kyehwanl/.vifm/Trash/000_openvswitch_2.0.2-0ubuntu0.14.04.3.dsc
+	/users/kyehwanl/Download/openvswitch_2.0.2-0ubuntu0.14.04.3.dsc
+t/users/kyehwanl/.vifm/Trash/000_openvswitch_2.0.2.orig.tar.gz
+	/users/kyehwanl/Download/openvswitch_2.0.2.orig.tar.gz
+t/users/kyehwanl/.vifm/Trash/000_openvswitch-2.0.2
+	/users/kyehwanl/Download/openvswitch-2.0.2
+t/users/kyehwanl/.vifm/Trash/000_bgp_validate.c.orig
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/bgp_validate.c.orig
+t/users/kyehwanl/.vifm/Trash/000_bgp_routemap.c.orig
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/bgp_routemap.c.orig
+t/users/kyehwanl/.vifm/Trash/000_bgp_packet.c.orig
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/bgp_packet.c.orig
+t/users/kyehwanl/.vifm/Trash/000_bgpd.h.orig
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/bgpd.h.orig
+t/users/kyehwanl/.vifm/Trash/000_temp.diff
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/temp.diff
+t/users/kyehwanl/.vifm/Trash/000_temp1.diff
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/temp1.diff
+t/users/kyehwanl/.vifm/Trash/000_difftemp.patch
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/difftemp.patch
+t/users/kyehwanl/.vifm/Trash/000_diff-cap.patch
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/diff-cap.patch
+t/users/kyehwanl/.vifm/Trash/000_Makefile.old
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/Makefile.old
+t/users/kyehwanl/.vifm/Trash/000_bgp_vty.c.orig
+	/users/kyehwanl/proj-bgp/quaggasrx/bgpd/bgp_vty.c.orig
+t/users/kyehwanl/.vifm/Trash/000_util_time_measure.c
+	/users/kyehwanl/proj-bgp/extras/test_code/util_time_measure.c
+t/users/kyehwanl/.vifm/Trash/000_perf_test.c
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/perf_test.c
+t/users/kyehwanl/.vifm/Trash/000_perf_test.h
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/perf_test.h
+t/users/kyehwanl/.vifm/Trash/000_Makefile.tmp
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/Makefile.tmp
+t/users/kyehwanl/.vifm/Trash/000_Makefile.orig
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/Makefile.orig
+t/users/kyehwanl/.vifm/Trash/000_Makefile.in
+	/users/kyehwanl/srx_test1/test2/api3/Makefile.in
+t/users/kyehwanl/.vifm/Trash/000_Makefile
+	/users/kyehwanl/srx_test1/test2/api3/Makefile
+t/users/kyehwanl/.vifm/Trash/000_tempdiff.patch
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/tempdiff.patch
+t/users/kyehwanl/.vifm/Trash/001_perf_test.h
+	/users/kyehwanl/srx_test1/test2/api4/perf_test.h
+t/users/kyehwanl/.vifm/Trash/001_perf_test.c
+	/users/kyehwanl/srx_test1/test2/api4/perf_test.c
+t/users/kyehwanl/.vifm/Trash/000_addition_automakefile_perf_test
+	/users/kyehwanl/config_and_diff_patch/addition_automakefile_perf_test
+t/users/kyehwanl/.vifm/Trash/000_addition_makefile_perf_test
+	/users/kyehwanl/config_and_diff_patch/addition_makefile_perf_test
+t/users/kyehwanl/.vifm/Trash/003_perf_test.c
+	/users/kyehwanl/srx_test1/test2/api4/perf_test.c
+t/users/kyehwanl/.vifm/Trash/003_perf_test.h
+	/users/kyehwanl/srx_test1/test2/api4/perf_test.h
+t/users/kyehwanl/.vifm/Trash/000_libtool
+	/users/kyehwanl/srx_test1/test2/api4/libtool
+t/users/kyehwanl/.vifm/Trash/000_ltmain.sh
+	/users/kyehwanl/srx_test1/test2/api4/ltmain.sh
+t/users/kyehwanl/.vifm/Trash/000_NEED2ADD_automakefile_perf_test
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/bgpsec_openssl/NEED2ADD_automakefile_perf_test
+t/users/kyehwanl/.vifm/Trash/000_vifmrc
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/bgpsec_openssl/vifmrc
+t/users/kyehwanl/.vifm/Trash/000_vifmrc.bak
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/bgpsec_openssl/vifmrc.bak
+t/users/kyehwanl/.vifm/Trash/000_FA1975FF193181458FB902B501EA9789DC.pub
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/keys/C3/0433/FA1975FF193181458FB902B501EA9789DC.pub
+t/users/kyehwanl/.vifm/Trash/000_svn-commit.tmp
+	/users/kyehwanl/Programming/retValtest/svn-commit.tmp
+t/users/kyehwanl/.vifm/Trash/000_perl1line.md
+	/users/kyehwanl/config_and_diff_patch/perl1line.md
+t/users/kyehwanl/.vifm/Trash/000_g80.vifm
+	/users/kyehwanl/.vifm/colors/g80.vifm
+t/users/kyehwanl/.vifm/Trash/000_README.md
+	/users/kyehwanl/.vifm/colors/README.md
+t/users/kyehwanl/.vifm/Trash/000_solarized-dark.vifm
+	/users/kyehwanl/.vifm/colors/solarized-dark.vifm
+t/users/kyehwanl/.vifm/Trash/000_ph.vifm
+	/users/kyehwanl/.vifm/colors/ph.vifm
+t/users/kyehwanl/.vifm/Trash/000_mc-like.vifm
+	/users/kyehwanl/.vifm/colors/mc-like.vifm
+t/users/kyehwanl/.vifm/Trash/000_matrix.vifm
+	/users/kyehwanl/.vifm/colors/matrix.vifm
+t/users/kyehwanl/.vifm/Trash/000_desert.vifm
+	/users/kyehwanl/.vifm/colors/desert.vifm
+t/users/kyehwanl/.vifm/Trash/000_darkdesert.vifm
+	/users/kyehwanl/.vifm/colors/darkdesert.vifm
+t/users/kyehwanl/.vifm/Trash/000_astrell.vifm
+	/users/kyehwanl/.vifm/colors/astrell.vifm
+t/users/kyehwanl/.vifm-Trash-10006/000_MyScheme.vifm
+	/users/kyehwanl/.vifm/colors/MyScheme.vifm
+t/users/kyehwanl/.vifm-Trash-10006/000_test
+	/users/kyehwanl/test
+t/users/kyehwanl/.vifm-Trash-10006/000_go1.6.linux-amd64.tar.gz.1
+	/users/kyehwanl/Download/go1.6.linux-amd64.tar.gz.1
+t/users/kyehwanl/.vifm-Trash-10006/000_node1.conf.100k
+	/users/kyehwanl/Bird_test/bird-1.6-bgpsec-0.9/node1.conf.100k
+t/users/kyehwanl/.vifm-Trash-10006/000_cpu_main.c
+	/users/kyehwanl/Programming/time-measure/tm-library/cpu_main.c
+t/users/kyehwanl/.vifm-Trash-10006/000_cpu_perf_measurement.c
+	/users/kyehwanl/Programming/time-measure/tm-library/cpu_perf_measurement.c
+t/users/kyehwanl/.vifm-Trash-10006/000_cpu_perf_measurement.h
+	/users/kyehwanl/Programming/time-measure/tm-library/cpu_perf_measurement.h
+t/users/kyehwanl/.vifm-Trash-10006/000_tara-make-script-libtool-sharedlibrary
+	/users/kyehwanl/Programming/time-measure/tm-library/tara-make-script-libtool-sharedlibrary
+t/users/kyehwanl/.vifm-Trash-10006/000_FA1975FF193181458FB902B501EA9789DC.pub
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/keys/C3/0433/FA1975FF193181458FB902B501EA9789DC.pub
+t/users/kyehwanl/.vifm-Trash-10006/000_priv-ski-list(1).txt
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/keys/priv-ski-list(1).txt
+t/users/kyehwanl/.vifm-Trash-10006/000_ski-list(1).txt
+	/users/kyehwanl/proj-bgp/extras/srxcryptoapi/keys/ski-list(1).txt
+t/users/kyehwanl/.vifm-Trash-10006/000_bird_performance_measurement_20160908
+	/users/kyehwanl/srx_test1/DEBUGGING_NOTE/bird_performance_measurement_20160908
+t/users/kyehwanl/.vifm-Trash-10006/000_bird_interoprerability_ERRORS_20161007
+	/users/kyehwanl/srx_test1/DEBUGGING_NOTE/bird_interoprerability_ERRORS_20161007
+t/users/kyehwanl/.vifm-Trash-10006/000_test_install
+	/users/kyehwanl/srx_test1/test2/bio2/test_install
+t/users/kyehwanl/.vifm/Trash/000_bgpsec-keys.tar.gz
+	/tmp/keys/bgpsec-keys.tar.gz
+t/users/kyehwanl/.vifm/Trash/000_-p
+	/tmp/QuaggaSRx/keys/-p
+t/users/kyehwanl/.vifm/Trash/000_8D86
+	/tmp/QuaggaSRx/keys/C3/8D86
+t/users/kyehwanl/.vifm/Trash/000_60005.EE503D669A374B729FE6F8F61B52A778F8A6CCE9.0.key
+	/tmp/bgpsec-keys/60005.EE503D669A374B729FE6F8F61B52A778F8A6CCE9.0.key
+t/users/kyehwanl/.vifm/Trash/000_60008.45CAD0AC44F77EFAA94602E9984305215BF47DCD.0.key
+	/tmp/bgpsec-keys/60008.45CAD0AC44F77EFAA94602E9984305215BF47DCD.0.key
+t/users/kyehwanl/.vifm/Trash/000_60008.75DDF3612DDF81B60C2DC75599567F98AF50EA7F.0.key
+	/tmp/bgpsec-keys/60008.75DDF3612DDF81B60C2DC75599567F98AF50EA7F.0.key
+t/users/kyehwanl/.vifm/Trash/000_60008.B280CD2631F9A4DBFBC3F38A724938843DF2C923.0.key
+	/tmp/bgpsec-keys/60008.B280CD2631F9A4DBFBC3F38A724938843DF2C923.0.key
+t/users/kyehwanl/.vifm/Trash/000_60008.C30433FA1975FF193181458FB902B501EA9789DC.0.key
+	/tmp/bgpsec-keys/60008.C30433FA1975FF193181458FB902B501EA9789DC.0.key
+t/users/kyehwanl/.vifm/Trash/000_32.8E232FCCAB9905C3D4802E27CC0576E6BFFDED64.key
+	/tmp/bgpsec-private-keys/32.8E232FCCAB9905C3D4802E27CC0576E6BFFDED64.key
+t/users/kyehwanl/.vifm/Trash/000_60003.C30433FA1975FF193181458FB902B501EA9789DC.key
+	/tmp/bgpsec-private-keys/60003.C30433FA1975FF193181458FB902B501EA9789DC.key
+t/users/kyehwanl/.vifm/Trash/000_60004.492AAE72485D926CACDA2D259BE19DAE82DFBDE3.key
+	/tmp/bgpsec-private-keys/60004.492AAE72485D926CACDA2D259BE19DAE82DFBDE3.key
+t/users/kyehwanl/.vifm/Trash/000_60005.EE503D669A374B729FE6F8F61B52A778F8A6CCE9.key
+	/tmp/bgpsec-private-keys/60005.EE503D669A374B729FE6F8F61B52A778F8A6CCE9.key
+t/users/kyehwanl/.vifm/Trash/000_60008.45CAD0AC44F77EFAA94602E9984305215BF47DCD.key
+	/tmp/bgpsec-private-keys/60008.45CAD0AC44F77EFAA94602E9984305215BF47DCD.key
+t/users/kyehwanl/.vifm/Trash/000_60008.75DDF3612DDF81B60C2DC75599567F98AF50EA7F.key
+	/tmp/bgpsec-private-keys/60008.75DDF3612DDF81B60C2DC75599567F98AF50EA7F.key
+t/users/kyehwanl/.vifm/Trash/000_60008.B280CD2631F9A4DBFBC3F38A724938843DF2C923.key
+	/tmp/bgpsec-private-keys/60008.B280CD2631F9A4DBFBC3F38A724938843DF2C923.key
+t/users/kyehwanl/.vifm/Trash/000_60008.B280CD2631F9A4DBFBC3F38A724938843DF2C923.pem
+	/tmp/bgpsec-private-keys/60008.B280CD2631F9A4DBFBC3F38A724938843DF2C923.pem
+t/users/kyehwanl/.vifm/Trash/000_60008.C30433FA1975FF193181458FB902B501EA9789DC.key
+	/tmp/bgpsec-private-keys/60008.C30433FA1975FF193181458FB902B501EA9789DC.key
+t/users/kyehwanl/.vifm/Trash/000_64.C30433FA1975FF193181458FB902B501EA9789DC.key
+	/tmp/bgpsec-private-keys/64.C30433FA1975FF193181458FB902B501EA9789DC.key
+t/users/kyehwanl/.vifm/Trash/000_32.8E232FCCAB9905C3D4802E27CC0576E6BFFDED64.0.key
+	/tmp/bgpsec-keys/32.8E232FCCAB9905C3D4802E27CC0576E6BFFDED64.0.key
+t/users/kyehwanl/.vifm/Trash/000_60003.C30433FA1975FF193181458FB902B501EA9789DC.0.key
+	/tmp/bgpsec-keys/60003.C30433FA1975FF193181458FB902B501EA9789DC.0.key
+t/users/kyehwanl/.vifm/Trash/000_60004.45CAD0AC44F77EFAA94602E9984305215BF47DCD.0.key
+	/tmp/bgpsec-keys/60004.45CAD0AC44F77EFAA94602E9984305215BF47DCD.0.key
+t/users/kyehwanl/.vifm/Trash/000_64.C30433FA1975FF193181458FB902B501EA9789DC.0.key
+	/tmp/bgpsec-keys/64.C30433FA1975FF193181458FB902B501EA9789DC.0.key
+t/users/kyehwanl/.vifm/Trash/000_keys
+	/tmp/BIRD/keys
+t/users/kyehwanl/.vifm-Trash-10006/000_bird.conf.20.orig
+	/users/kyehwanl/Bird_test/bird/bird.conf.20.orig
+t/users/kyehwanl/.vifm-Trash-10006/000_bird.conf.30.orig
+	/users/kyehwanl/Bird_test/bird/bird.conf.30.orig
+t/users/kyehwanl/.vifm-Trash-10006/000_netns_openvswitch_history_
+	/users/kyehwanl/SDN_test/netns_openvswitch_history_
+t/users/kyehwanl/.vifm-Trash-10006/000_socat
+	/users/kyehwanl/socat
+t/users/kyehwanl/.vifm-Trash-10006/000_yum_tips
+	/users/kyehwanl/config_and_diff_patch/yum_tips
+t/users/kyehwanl/.vifm-Trash-10006/000_temp-rsync
+	/users/kyehwanl/srx_test1/temp-rsync
+t/users/kyehwanl/.vifm/Trash/000_zebra
+	/tmp/zebra
+t/users/kyehwanl/.vifm/Trash/000_ripngd
+	/tmp/ripngd
+t/users/kyehwanl/.vifm/Trash/000_solaris
+	/tmp/solaris
+t/users/kyehwanl/.vifm/Trash/000_tests
+	/tmp/tests
+t/users/kyehwanl/.vifm/Trash/000_tools
+	/tmp/tools
+t/users/kyehwanl/.vifm/Trash/000_vtysh
+	/tmp/vtysh
+t/users/kyehwanl/.vifm/Trash/000_watchquagga
+	/tmp/watchquagga
+t/users/kyehwanl/.vifm/Trash/000_doc
+	/tmp/doc
+t/users/kyehwanl/.vifm/Trash/000_fpm
+	/tmp/fpm
+t/users/kyehwanl/.vifm/Trash/000_isisd
+	/tmp/isisd
+t/users/kyehwanl/.vifm/Trash/000_lib
+	/tmp/lib
+t/users/kyehwanl/.vifm/Trash/000_m4
+	/tmp/m4
+t/users/kyehwanl/.vifm/Trash/000_ospf6d
+	/tmp/ospf6d
+t/users/kyehwanl/.vifm/Trash/000_ospfclient
+	/tmp/ospfclient
+t/users/kyehwanl/.vifm/Trash/000_ospfd
+	/tmp/ospfd
+t/users/kyehwanl/.vifm/Trash/000_pkgsrc
+	/tmp/pkgsrc
+t/users/kyehwanl/.vifm/Trash/000_redhat
+	/tmp/redhat
+t/users/kyehwanl/.vifm/Trash/000_ripd
+	/tmp/ripd
+t/users/kyehwanl/.vifm/Trash/000_babeld
+	/tmp/babeld
+t/users/kyehwanl/.vifm/Trash/000_bgpd
+	/tmp/bgpd
+t/users/kyehwanl/.vifm/Trash/000_update-autotools
+	/tmp/update-autotools
+t/users/kyehwanl/.vifm/Trash/000_install-sh
+	/tmp/install-sh
+t/users/kyehwanl/.vifm/Trash/001_ltmain.sh
+	/tmp/ltmain.sh
+t/users/kyehwanl/.vifm/Trash/000_missing
+	/tmp/missing
+t/users/kyehwanl/.vifm/Trash/000_AUTHORS
+	/tmp/AUTHORS
+t/users/kyehwanl/.vifm/Trash/000_COPYING
+	/tmp/COPYING
+t/users/kyehwanl/.vifm/Trash/000_COPYING.LIB
+	/tmp/COPYING.LIB
+t/users/kyehwanl/.vifm/Trash/000_ChangeLog
+	/tmp/ChangeLog
+t/users/kyehwanl/.vifm/Trash/000_INSTALL
+	/tmp/INSTALL
+t/users/kyehwanl/.vifm/Trash/000_INSTALL.SRx_client.txt
+	/tmp/INSTALL.SRx_client.txt
+t/users/kyehwanl/.vifm/Trash/000_INSTALL.quagga.txt
+	/tmp/INSTALL.quagga.txt
+t/users/kyehwanl/.vifm/Trash/000_Makefile.am
+	/tmp/Makefile.am
+t/users/kyehwanl/.vifm/Trash/001_Makefile.in
+	/tmp/Makefile.in
+t/users/kyehwanl/.vifm/Trash/000_NEWS
+	/tmp/NEWS
+t/users/kyehwanl/.vifm/Trash/000_README
+	/tmp/README
+t/users/kyehwanl/.vifm/Trash/000_REPORTING-BUGS
+	/tmp/REPORTING-BUGS
+t/users/kyehwanl/.vifm/Trash/000_SERVICES
+	/tmp/SERVICES
+t/users/kyehwanl/.vifm/Trash/000_TODO
+	/tmp/TODO
+t/users/kyehwanl/.vifm/Trash/000_aclocal.m4
+	/tmp/aclocal.m4
+t/users/kyehwanl/.vifm/Trash/000_compile
+	/tmp/compile
+t/users/kyehwanl/.vifm/Trash/000_config.guess
+	/tmp/config.guess
+t/users/kyehwanl/.vifm/Trash/000_config.h.in
+	/tmp/config.h.in
+t/users/kyehwanl/.vifm/Trash/000_config.sub
+	/tmp/config.sub
+t/users/kyehwanl/.vifm/Trash/000_configure.ac
+	/tmp/configure.ac
+t/users/kyehwanl/.vifm/Trash/000_depcomp
+	/tmp/depcomp
+t/users/kyehwanl/.vifm/Trash/000_configure.copy
+	/tmp/configure.copy
+t/users/kyehwanl/.vifm/Trash/000_vifm-ipc-vifm
+	/tmp/vifm-ipc-vifm
+t/users/kyehwanl/.vifm-Trash-10006/000_diff-measure.patch
+	/users/kyehwanl/Quagga_test/Proces_Performance/quagga-0.99.22/bgpd/diff-measure.patch
+t/users/kyehwanl/.vifm/Trash/001_bgpd
+	/tmp/bgpd
+t/users/kyehwanl/.vifm/Trash/001_watchquagga
+	/tmp/watchquagga
+t/users/kyehwanl/.vifm/Trash/001_ripngd
+	/tmp/ripngd
+t/users/kyehwanl/.vifm/Trash/001_ripd
+	/tmp/ripd
+t/users/kyehwanl/.vifm/Trash/001_zebra
+	/tmp/zebra
+t/users/kyehwanl/.vifm/Trash/001_lib
+	/tmp/lib
+t/users/kyehwanl/.vifm/Trash/001_babeld
+	/tmp/babeld
+t/users/kyehwanl/.vifm/Trash/001_doc
+	/tmp/doc
+t/users/kyehwanl/.vifm/Trash/001_isisd
+	/tmp/isisd
+t/users/kyehwanl/.vifm/Trash/001_m4
+	/tmp/m4
+t/users/kyehwanl/.vifm/Trash/001_ospfclient
+	/tmp/ospfclient
+t/users/kyehwanl/.vifm/Trash/001_pkgsrc
+	/tmp/pkgsrc
+t/users/kyehwanl/.vifm/Trash/001_redhat
+	/tmp/redhat
+t/users/kyehwanl/.vifm/Trash/001_solaris
+	/tmp/solaris
+t/users/kyehwanl/.vifm/Trash/001_tests
+	/tmp/tests
+t/users/kyehwanl/.vifm/Trash/001_vtysh
+	/tmp/vtysh
+t/users/kyehwanl/.vifm/Trash/001_ospf6d
+	/tmp/ospf6d
+t/users/kyehwanl/.vifm/Trash/001_ospfd
+	/tmp/ospfd
+t/users/kyehwanl/.vifm/Trash/000_autom4te.cache
+	/tmp/autom4te.cache
+t/users/kyehwanl/.vifm/Trash/001_tools
+	/tmp/tools
+t/users/kyehwanl/.vifm/Trash/001_fpm
+	/tmp/fpm
+t/users/kyehwanl/.vifm/Trash/000_cscope.files
+	/tmp/cscope.files
+t/users/kyehwanl/.vifm/Trash/000_tags
+	/tmp/tags
+t/users/kyehwanl/.vifm/Trash/000_config.log
+	/tmp/config.log
+t/users/kyehwanl/.vifm/Trash/001_Makefile
+	/tmp/Makefile
+t/users/kyehwanl/.vifm/Trash/001_libtool
+	/tmp/libtool
+t/users/kyehwanl/.vifm/Trash/000_config.h
+	/tmp/config.h
+t/users/kyehwanl/.vifm/Trash/000_stamp-h1
+	/tmp/stamp-h1
+t/users/kyehwanl/.vifm/Trash/000_config.status
+	/tmp/config.status
+t/users/kyehwanl/.vifm/Trash/001_config.h.in
+	/tmp/config.h.in
+t/users/kyehwanl/.vifm/Trash/000_config.status.orig
+	/tmp/config.status.orig
+t/users/kyehwanl/.vifm/Trash/000_configure
+	/tmp/configure
+t/users/kyehwanl/.vifm/Trash/002_Makefile.in
+	/tmp/Makefile.in
+t/users/kyehwanl/.vifm/Trash/001_aclocal.m4
+	/tmp/aclocal.m4
+t/users/kyehwanl/.vifm/Trash/001_update-autotools
+	/tmp/update-autotools
+t/users/kyehwanl/.vifm/Trash/001_install-sh
+	/tmp/install-sh
+t/users/kyehwanl/.vifm/Trash/002_ltmain.sh
+	/tmp/ltmain.sh
+t/users/kyehwanl/.vifm/Trash/001_missing
+	/tmp/missing
+t/users/kyehwanl/.vifm/Trash/001_compile
+	/tmp/compile
+t/users/kyehwanl/.vifm/Trash/001_config.guess
+	/tmp/config.guess
+t/users/kyehwanl/.vifm/Trash/001_config.sub
+	/tmp/config.sub
+t/users/kyehwanl/.vifm/Trash/001_configure.ac
+	/tmp/configure.ac
+t/users/kyehwanl/.vifm/Trash/001_depcomp
+	/tmp/depcomp
+t/users/kyehwanl/.vifm/Trash/001_AUTHORS
+	/tmp/AUTHORS
+t/users/kyehwanl/.vifm/Trash/001_COPYING
+	/tmp/COPYING
+t/users/kyehwanl/.vifm/Trash/001_COPYING.LIB
+	/tmp/COPYING.LIB
+t/users/kyehwanl/.vifm/Trash/001_ChangeLog
+	/tmp/ChangeLog
+t/users/kyehwanl/.vifm/Trash/001_INSTALL
+	/tmp/INSTALL
+t/users/kyehwanl/.vifm/Trash/001_INSTALL.SRx_client.txt
+	/tmp/INSTALL.SRx_client.txt
+t/users/kyehwanl/.vifm/Trash/001_INSTALL.quagga.txt
+	/tmp/INSTALL.quagga.txt
+t/users/kyehwanl/.vifm/Trash/001_Makefile.am
+	/tmp/Makefile.am
+t/users/kyehwanl/.vifm/Trash/001_NEWS
+	/tmp/NEWS
+t/users/kyehwanl/.vifm/Trash/001_README
+	/tmp/README
+t/users/kyehwanl/.vifm/Trash/001_REPORTING-BUGS
+	/tmp/REPORTING-BUGS
+t/users/kyehwanl/.vifm/Trash/001_SERVICES
+	/tmp/SERVICES
+t/users/kyehwanl/.vifm/Trash/001_TODO
+	/tmp/TODO
+t/users/kyehwanl/.vifm/Trash/000_make_cscope.sh
+	/tmp/make_cscope.sh
+t/users/kyehwanl/.vifm/Trash/000_qsrx
+	/tmp/qsrx
+t/users/kyehwanl/.vifm/Trash/000_qsrx2-6
+	/tmp/qsrx2-6
+t/users/kyehwanl/.vifm/Trash/000_qsrx2-5
+	/tmp/qsrx2-5
+t/users/kyehwanl/.vifm/Trash/000_qsrx2-8
+	/tmp/qsrx2-8
+t/users/kyehwanl/.vifm/Trash/000_qsrx2-7
+	/tmp/qsrx2-7
+t/users/kyehwanl/.vifm/Trash/000_qsrx2-4
+	/tmp/qsrx2-4
+t/users/kyehwanl/.vifm/Trash/000_qsrx2-3
+	/tmp/qsrx2-3
+t/users/kyehwanl/.vifm/Trash/000_qsrx2-2
+	/tmp/qsrx2-2
+
+# State:
+f(\.([Pl])?o|\.a|out|.*~)$
+i1
+[.1
+[F
+F(\.([Pl])?o|\.a|out|.*~)$
+I1
+].1
+]F
+s0
