@@ -145,7 +145,8 @@ command Q :execute '!echo %d > ~/.vifm/lastdir' | quit
 command Diff vim -d %f %F
 ""command make  !!make -f %c
 command make  !!make -C %d
-filter '(\.([sl])?o|\.a|.*~)$'
+command git !!git %a
+filter '(\.([sl])?o|\.a|.*~|\.pyc)$'
 " in cpoptions(cpo), 't' enables 'tab' to switch between panes like space, otherwise forward in history. so 't' is opted out
 set cpo=fs
 
@@ -375,7 +376,7 @@ set vifminfo=dhistory,savedirs,chistory,state,tui,shistory,
 "
 " windo filter! /^.*\.(lo|o|d|class|py[co])$|.*~$/
 " filter '(o|.*~)$' 
-filter '(\.([Pl])?o|\.a|out|.*~)$'
+filter '(\.([Pl])?o|\.a|out|.*~|py[co])$'
 
 " ------------------------------------------------------------------------------
 
