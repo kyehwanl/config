@@ -145,6 +145,16 @@ command Q :execute '!echo %d > ~/.vifm/lastdir' | quit
 command Diff vim -d %f %F
 ""command make  !!make -f %c
 command make  !!make -C %d
+command gs !!git status
+command gl !!git lgodb
+command gb !!git branch
+command gc !!git checkout %a
+command git !!git %a
+command hex !!hexdump -C %f
+command gdb gdb --args %f %a
+command ldd !!ldd %f
+command vim !vim %a
+
 filter '(\.([sl])?o|\.a|.*~)$'
 " in cpoptions(cpo), 't' enables 'tab' to switch between panes like space, otherwise forward in history. so 't' is opted out
 set cpo=fs
